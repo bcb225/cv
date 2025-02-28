@@ -103,7 +103,7 @@ div.title_center {
   text-align: center;
   padding-left: 0.75rem;
   padding-right: 0.75rem;
-  border-right: 0.05rem solid;
+  /*border-right: 0.05rem solid;*/
   font-family: 'Cormorant SC', serif;
   font-weight: 500;
   /* font-size: 1.5rem; */
